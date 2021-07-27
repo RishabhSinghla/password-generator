@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Rishabh's Password Generator",
+    "description": "This extension generates a random password for you and lets you copy that password.",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "window.html"
+    }
+}
